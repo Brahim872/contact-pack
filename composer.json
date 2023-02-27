@@ -1,0 +1,19 @@
+{
+    "name": "blacksmith/contacts",
+    "description": "this description",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Blacksmith\\Contacts\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "BlackSmith",
+            "email": "brahimhaddad.code@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
